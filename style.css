@@ -38,7 +38,6 @@ a:hover {
 
 ul {
   overflow: hidden;
-  list-style-image: url(images/star21.gif);
   text-align: left;
 }
 
@@ -148,6 +147,13 @@ ul {
   line-height: 10px;
 }
 
+.sidecontentbox {
+  padding: 5px 10px 5px 10px;
+  margin: 10px 10px;
+  font-size: 14px;
+  outline: #d6c3bb dotted 3px;
+}
+
 hr.dashed {
   border-top: 2px dashed #272525;
 }
@@ -163,4 +169,5 @@ hr.dashed {
   width: 500px;
   height: 140px;
 }
+
 
